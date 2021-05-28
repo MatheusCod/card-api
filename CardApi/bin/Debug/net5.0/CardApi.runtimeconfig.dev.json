@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/openstack/.dotnet/store/|arch|/|tfm|",
+      "/home/openstack/.nuget/packages"
+    ]
+  }
+}
