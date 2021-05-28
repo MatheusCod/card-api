@@ -2,7 +2,8 @@
 
 Para este tutorial, foi utilizado a distro Linux Mint 20.1, baseada no Ubuntu 20.04
 
-Referência: https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio-code#update-the-posttodoitem-create-method
+Referência: [Web API com ASP.NET](https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio)
+### Aviso: este projeto não implementa nenhum tipo de segurança ao armazenar dados obtidos com POST.
 
 Pré-requisitos:
  - Visual Studio Code
